@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   
   ![header](https://capsule-render.vercel.app/api?type=Waving&text=Nakyung-Ahn&color=0:fde4f1,50:fde4f1&fontColor=ffffff)
   
