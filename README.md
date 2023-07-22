@@ -1,12 +1,13 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=Waving&text=Nakyung%20Ahn&desc=&color=0:fcdeee,100:fcdeee&fontColor=ffffff&fontSize=40&height=140)
-  <br />
+![header](https://capsule-render.vercel.app/api?type=Waving&color=0:fcdeee,100:fcdeee&height=140&text=Nakyung%20Ahn&fontAlignY=34&fontColor=ffffff&fontSize=40&desc=design,%20develop.&descAlign=70.&descAlignY=50)
+  
   <br />
   <br />
   <b>Have been used</b>
   <br />
   <br />
+  
   ![MySQL](https://img.shields.io/badge/mysql-332d30?style=for-the-badge&logo=mysql&logoColor=white)
   <a href="https://codepen.io/Ahnnakyung">![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)</a>
   ![TypeScript](https://img.shields.io/badge/typescript-191618?style=for-the-badge&logo=typescript&logoColor=white)
