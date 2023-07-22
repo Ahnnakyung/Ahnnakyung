@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=Waving&text=Nakyung_Ahn&desc=developdesigner&color=0:fde4f1,50:fde4f1&fontColor=ffffff&fontSize=80&height=180)
+  ![header](https://capsule-render.vercel.app/api?type=Waving&text=Nakyung_Ahn&desc=developdesigner&color=0:fcdeee,50:fcdeee&fontColor=ffffff&fontSize=80&height=180)
   
   <br />
   <a href="https://github.com/Ahnnakyung"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
