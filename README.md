@@ -3,6 +3,7 @@
   ![header](https://capsule-render.vercel.app/api?type=Waving&text=Nakyung%20Ahn&desc=&color=0:fcdeee,100:fcdeee&fontColor=ffffff&fontSize=40&height=140)
   <br />
   <br />
+  <br />
   <b>Have been used</b>
   <br />
   <br />
@@ -31,7 +32,6 @@
   <a href="https://instagram.com/ahnnakyung?igshid=MmIzYWVlNDQ5Yg==">![Instagram](https://img.shields.io/badge/Instagram-191618?style=for-the-badge&logo=Instagram&logoColor=white)</a>
   ![Sound Cloud](https://img.shields.io/badge/sound%20cloud-000000?style=for-the-badge&logo=soundcloud&logoColor=white)
   <br />
-  ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)  
   
 </div>
 
