@@ -1,3 +1,3 @@
-# 안나경
+### Hi there
 
-<a href="#" target="_blank"><img src="https://i.postimg.cc/ydSGbWR5/snow-AI.jpg/badge/label-#fde4ef?style=flat&logo=#41454A&logoColor=white"/></a>
+ [![Badge](http://img.shields.io/badge/-Ahnnakyung-#fde4ef?style=flat-square&logo=github&link=https://Ahnnakyung.github.io/)](https://Ahnnakyung.github.io/)
