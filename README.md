@@ -20,18 +20,16 @@
   
   <a href="https://github.com/Ahnnakyung">![Github](https://img.shields.io/badge/github-191618?style=for-the-badge&logo=github&logoColor=white)</a>
   ![ChatGPT](https://img.shields.io/badge/chatGPT-191618?style=for-the-badge&logo=openai&logoColor=white)
+    <br />
   ![Figma](https://img.shields.io/badge/figma-332d30?style=for-the-badge&logo=figma&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html5-191618?style=for-the-badge&logo=html5&logoColor=white)
-  <br />
   ![React](https://img.shields.io/badge/React-191618?style=for-the-badge&logo=React&logoColor=white)
-  ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-191618?style=for-the-badge&logo=reacthookform&logoColor=white)
-  ![Styled Components](https://img.shields.io/badge/styled--components-191618?style=for-the-badge&logo=styled-components&logoColor=white)
   
-  <br /><b>Social & Music</b><br />
+  <br /><b>Social </b><br />
   <br />
+  ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
   ![Slack](https://img.shields.io/badge/Slack-191618?style=for-the-badge&logo=slack&logoColor=white)
   <a href="https://instagram.com/ahnnakyung?igshid=MmIzYWVlNDQ5Yg==">![Instagram](https://img.shields.io/badge/Instagram-191618?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-  ![Sound Cloud](https://img.shields.io/badge/sound%20cloud-000000?style=for-the-badge&logo=soundcloud&logoColor=white)
   <br />
   
 </div>
