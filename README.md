@@ -22,8 +22,10 @@
   ![ChatGPT](https://img.shields.io/badge/chatGPT-191618?style=for-the-badge&logo=openai&logoColor=white)
     <br />
   ![Figma](https://img.shields.io/badge/figma-332d30?style=for-the-badge&logo=figma&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-332d30?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html5-191618?style=for-the-badge&logo=html5&logoColor=white)
   ![React](https://img.shields.io/badge/React-191618?style=for-the-badge&logo=React&logoColor=white)
+  ![GitKraken](https://img.shields.io/badge/GitKraken-332d30?style=for-the-badge&logo=gitkraken&logoColor=white)
   
   <br /><b>Social </b><br />
   <br />
