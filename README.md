@@ -40,5 +40,3 @@
   <br />
   <br />
   <br />
-  <img src="https://i.postimg.cc/k49BDJ4y/IMG-9443.jpg">
-
