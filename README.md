@@ -11,25 +11,25 @@
   <br />
   <br />
   
-  ![MySQL](https://img.shields.io/badge/mysql-191618?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=black)
   <a href="https://codepen.io/Ahnnakyung">![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)</a>
-  ![TypeScript](https://img.shields.io/badge/typescript-191618?style=for-the-badge&logo=typescript&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-191618?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![ChatGPT](https://img.shields.io/badge/chatGPT-191618?style=for-the-badge&logo=openai&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/typescript-white?style=for-the-badge&logo=typescript&logoColor=black)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-white?style=for-the-badge&logo=tailwind-css&logoColor=black)
+  ![ChatGPT](https://img.shields.io/badge/chatGPT-white?style=for-the-badge&logo=openai&logoColor=black)
     <br />
-  ![Figma](https://img.shields.io/badge/figma-191618?style=for-the-badge&logo=figma&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-191618?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/html5-191618?style=for-the-badge&logo=html5&logoColor=white)
-  ![React](https://img.shields.io/badge/React-191618?style=for-the-badge&logo=React&logoColor=white)
+  ![Figma](https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&logoColor=black)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-white?style=for-the-badge&logo=visual-studio-code&logoColor=black)
+  ![HTML5](https://img.shields.io/badge/html5-white?style=for-the-badge&logo=html5&logoColor=black)
+  ![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=React&logoColor=black)
   <br />
-  <a href="https://github.com/Ahnnakyung">![Github](https://img.shields.io/badge/github-191618?style=for-the-badge&logo=github&logoColor=white)</a>
-  ![GitKraken](https://img.shields.io/badge/GitKraken-191618?style=for-the-badge&logo=gitkraken&logoColor=white)
+  <a href="https://github.com/Ahnnakyung">![Github](https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=black)</a>
+  ![GitKraken](https://img.shields.io/badge/GitKraken-white?style=for-the-badge&logo=gitkraken&logoColor=black)
   
   <br /><b>Social </b><br />
   <br />
-  ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-  ![Slack](https://img.shields.io/badge/Slack-191618?style=for-the-badge&logo=slack&logoColor=white)
-  <a href="https://instagram.com/ahnnakyung?igshid=MmIzYWVlNDQ5Yg==">![Instagram](https://img.shields.io/badge/Instagram-191618?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+  ![Notion](https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=notion&logoColor=black)
+  ![Slack](https://img.shields.io/badge/Slack-white?style=for-the-badge&logo=slack&logoColor=black)
+  <a href="https://instagram.com/ahnnakyung?igshid=MmIzYWVlNDQ5Yg==">![Instagram](https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=Instagram&logoColor=black)</a>
   <br />
   
 </div>
