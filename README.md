@@ -10,24 +10,36 @@
   <b>Have been used</b>
   <br />
   <br />
+  <br />
 
-  ![JavaScript](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/typescript-white?style=for-the-badge&logo=typescript&logoColor=black)
+  <img src="https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CSS3-white?style=flat-square&logo=css3&logoColor=black"/>
+  <img src="https://img.shields.io/badge/styled components-white?style=flat-square&logo=styled-components&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind CSS-white?style=flat-square&logo=Tailwind CSS&logoColor=black"/>
+
+  <br />
+
+  <img src="https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Typescript-white?style=flat-square&logo=Typescript&logoColor=black"/>
+
+  <br />
+
+  <img src="https://img.shields.io/badge/React-white?style=flat-square&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-white?style=flat-square&logo=Next.js&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-white?style=flat-square&logo=Node.js&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Visual Studio Code-white?style=flat-square&logo=Visual Studio Code&logoColor=black"/>
+
+  <br />
+
   <img src="https://img.shields.io/badge/Python-white?style=flat-square&logo=Python&logoColor=black"/>
   <img src="https://img.shields.io/badge/Anaconda-white?style=flat-square&logo=Anaconda&logoColor=black"/>
-  ![MySQL](https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=black)
-  <a href="https://codepen.io/Ahnnakyung">![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)</a>
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-white?style=for-the-badge&logo=tailwind-css&logoColor=black)
-  ![ChatGPT](https://img.shields.io/badge/chatGPT-white?style=for-the-badge&logo=openai&logoColor=black)
-    <br />
-  ![Figma](https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&logoColor=black)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-white?style=for-the-badge&logo=visual-studio-code&logoColor=black)
-  ![HTML5](https://img.shields.io/badge/html5-white?style=for-the-badge&logo=html5&logoColor=black)
-  ![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=React&logoColor=black)
-  <br />
-  <a href="https://github.com/Ahnnakyung">![Github](https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=black)</a>
-  ![GitKraken](https://img.shields.io/badge/GitKraken-white?style=for-the-badge&logo=gitkraken&logoColor=black)
+  <img src="https://img.shields.io/badge/MySQL-white?style=flat-square&logo=MySQL&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-white?style=flat-square&logo=Docker&logoColor=black"/>
   
+  ![Figma](https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&logoColor=black)
+
+  <br />
+    
   <br /><b>Social </b><br />
   <br />
   ![Notion](https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=notion&logoColor=black)
