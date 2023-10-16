@@ -39,19 +39,9 @@
   ![Figma](https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&logoColor=black)
 
   <br />
-    
-  <br /><b>Social </b><br />
-  <br />
-  ![Notion](https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=notion&logoColor=black)
-  ![Slack](https://img.shields.io/badge/Slack-white?style=for-the-badge&logo=slack&logoColor=black)
-  <a href="https://instagram.com/ahnnakyung?igshid=MmIzYWVlNDQ5Yg==">![Instagram](https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=Instagram&logoColor=black)</a>
-  <br />
   
 </div>
 
-<br />
-<br />
-<br />
 <br />
 <br />
 <br />
