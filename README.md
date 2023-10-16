@@ -10,7 +10,7 @@
   <br />
   <br />
   <br />
-  <b>Have been used</b>
+  Have been used
   <br />
   <br />
   <br />
