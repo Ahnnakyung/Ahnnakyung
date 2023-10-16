@@ -10,10 +10,13 @@
   <b>Have been used</b>
   <br />
   <br />
-  
+
+  ![JavaScript](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/typescript-white?style=for-the-badge&logo=typescript&logoColor=black)
+  <img src="https://img.shields.io/badge/Python-white?style=flat-square&logo=Python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Anaconda-white?style=flat-square&logo=Anaconda&logoColor=black"/>
   ![MySQL](https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=black)
   <a href="https://codepen.io/Ahnnakyung">![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)</a>
-  ![TypeScript](https://img.shields.io/badge/typescript-white?style=for-the-badge&logo=typescript&logoColor=black)
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-white?style=for-the-badge&logo=tailwind-css&logoColor=black)
   ![ChatGPT](https://img.shields.io/badge/chatGPT-white?style=for-the-badge&logo=openai&logoColor=black)
     <br />
