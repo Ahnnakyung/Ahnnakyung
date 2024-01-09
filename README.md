@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/Next.js-white?style=flat-square&logo=Next.js&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-white?style=flat-square&logo=Python&logoColor=black"/>
   <img src="https://img.shields.io/badge/Anaconda-white?style=flat-square&logo=Anaconda&logoColor=black"/>
-  JupyterNotebook
 
   <b>Library</b>
   <br />
@@ -29,6 +28,9 @@
   
 </div>
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
