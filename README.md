@@ -42,7 +42,4 @@ I'm a first year front-end developer, I love designing and I study publishing wi
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
+
