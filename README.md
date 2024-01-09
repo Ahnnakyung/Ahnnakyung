@@ -4,6 +4,7 @@
   <br />
   <img src="https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Typescript-white?style=flat-square&logo=Typescript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-white?style=flat-square&logo=Next.js&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-white?style=flat-square&logo=Python&logoColor=black"/>
   <img src="https://img.shields.io/badge/Anaconda-white?style=flat-square&logo=Anaconda&logoColor=black"/>
   JupyterNotebook
@@ -11,10 +12,6 @@
   <b>Library</b>
   <br />
   <img src="https://img.shields.io/badge/React-white?style=flat-square&logo=React&logoColor=black"/>
-
-  <b>Frameworks</b>
-  <br />
-  <img src="https://img.shields.io/badge/Next.js-white?style=flat-square&logo=Next.js&logoColor=black"/>
 
   <b>css Frameworks</b>
   <br />
@@ -29,11 +26,6 @@
   <b>Data</b>
   <br />
   <img src="https://img.shields.io/badge/MySQL-white?style=flat-square&logo=MySQL&logoColor=black"/>
-  
-  <img src="https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=black"/>
-  <img src="https://img.shields.io/badge/CSS3-white?style=flat-square&logo=css3&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-white?style=flat-square&logo=Node.js&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-white?style=flat-square&logo=Docker&logoColor=black"/>
   
 </div>
 
