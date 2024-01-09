@@ -4,10 +4,8 @@
 <br />
 I'm a first year front-end developer, I love designing and I study publishing with efficient management. I'm also interested in database design, data management, and back-end technology. I like to communicate and collaborate with team projects.
 <br />
+<h1></h1>
 <br />
-<br />
-<br />
-
   <b>Languages</b>
   <br />
   <img src="https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=javascript&logoColor=black"/>
@@ -15,6 +13,8 @@ I'm a first year front-end developer, I love designing and I study publishing wi
   <img src="https://img.shields.io/badge/Next.js-white?style=flat-square&logo=Next.js&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-white?style=flat-square&logo=Python&logoColor=black"/>
   <img src="https://img.shields.io/badge/Anaconda-white?style=flat-square&logo=Anaconda&logoColor=black"/>
+<br />
+<br />
 
   <b>Library</b>
   <br />
