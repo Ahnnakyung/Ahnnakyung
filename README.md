@@ -1,5 +1,13 @@
 <div>
 
+<h3>Frontend-developer & designer</h3>
+<br />
+I'm a first year front-end developer, I love designing and I study publishing with efficient management. I'm also interested in database design, data management, and back-end technology. I like to communicate and collaborate with team projects.
+<br />
+<br />
+<br />
+<br />
+
   <b>Languages</b>
   <br />
   <img src="https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=javascript&logoColor=black"/>
@@ -22,7 +30,7 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-white?style=flat-square&logo=Visual Studio Code&logoColor=black"/>
   ![Figma](https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&logoColor=black)
 
-  <b>Data</b>
+  <b>Database</b>
   <br />
   <img src="https://img.shields.io/badge/MySQL-white?style=flat-square&logo=MySQL&logoColor=black"/>
   
