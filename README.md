@@ -1,11 +1,7 @@
-<h3>Frontend-developer & designer</h3>
-<br />
-I'm a first year front-end developer, I love designing and I study publishing with efficient management. I'm also interested in database design, data management, and back-end technology. I like to communicate and collaborate with team projects.
-<br />
+<h3>Ahnnakyung</h3>
+Introduce.
 <h1></h1>
-<br />
-<b>Tech Stack</b>
-<br />
+<h3>Skill</h3>
 <div align=left>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
